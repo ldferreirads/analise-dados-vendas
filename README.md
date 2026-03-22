@@ -26,8 +26,20 @@ Analisar dados de vendas para identificar padrões e gerar insights estratégico
 pip install pandas matplotlib
 python analise.py
 
-Depois:
-1. Vá até o fim da página
-2. Em **Commit message**, escreva:
-```text
-Update project README
+## 🚀 Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/ldferreirads/analise-dados-vendas.git
+
+#Acesse a pasta do projeto
+cd analise-dados-vendas
+
+#Instale as dependências
+pip install pandas matplotlib
+
+#Execute o script
+python analise.py
+
+## 📦 Requisitos
+- Python 3.x
