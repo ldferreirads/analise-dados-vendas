@@ -18,6 +18,9 @@ Analisar dados de vendas para identificar padrões e gerar insights estratégico
 - O produto mais vendido foi o Mouse
 - A categoria com maior faturamento foi Eletrônicos
 
+## 📈 Visualização
+![Gráfico](grafico.png)
+
 ## 🚀 Como executar
 ```bash
 pip install pandas matplotlib
