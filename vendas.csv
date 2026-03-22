@@ -1,0 +1,11 @@
+data,produto,categoria,quantidade,preco
+2024-01-01,Notebook,Eletrônicos,2,3500
+2024-01-02,Mouse,Eletrônicos,5,80
+2024-01-03,Teclado,Eletrônicos,3,150
+2024-01-04,Cadeira,Móveis,1,900
+2024-01-05,Mesa,Móveis,1,1200
+2024-01-06,Fone de ouvido,Eletrônicos,4,200
+2024-01-07,Monitor,Eletrônicos,2,1200
+2024-01-08,Luminária,Decoração,3,150
+2024-01-09,Tapete,Decoração,2,300
+2024-01-10,Impressora,Eletrônicos,1,800
